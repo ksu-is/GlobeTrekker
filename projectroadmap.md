@@ -3,4 +3,5 @@
 - [x] Create Read.me
 - [ ] Upload example python code
 - [ ] Copy file from Github to VSC
+- [ ] Complete Sprint 1
       
